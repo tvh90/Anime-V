@@ -1,6 +1,7 @@
 getgenv().Key = "kb045dafb71629f8b37ebdf6"
 getgenv().Config = {
     ["Failsafe"] = {
+        ["DeleteMap"] = true,
         ["Auto Rejoin"] = true,
         ["Teleport Lobby if Player"] = true
     },
