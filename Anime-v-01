@@ -5,6 +5,13 @@ getgenv().Config = {
         ["Auto Rejoin"] = true,
         ["Teleport Lobby if Player"] = true
     },
+	["Claimer"] = {
+		["Auto Claim Battle Pass"] = true,
+		["Auto Claim Quest"] = true,
+		["Auto Claim Daily Reward"] = true,
+		["Auto Claim Collection"] = true,
+		["Auto Claim Achievement"] = true
+	},
     ["Webhook"] = {
         ["Stage Finished"] = true,
         ["URL"] = ""
