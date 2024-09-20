@@ -1,4 +1,4 @@
-getgenv().Key = "k11e11c4fed413df4cbcf46b"
+getgenv().Key = "k272e339050f1e8bb2d56393"
 getgenv().Config = {
     ["Failsafe"] = {
         ["Auto Rejoin"] = true,
