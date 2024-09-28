@@ -1,6 +1,12 @@
 _G.VanguardSettings = {
-    ['ClaimReward'] = true,
-    ['ClaimDaily'] = true
+    ['ClaimDaily'] = true,
+    ['ClaimQuests'] = true,
+    ['ClaimAchievement'] = true,
+    ['ClaimBattlepass'] = true,
+    ['Webhooks'] = {
+        ['Enabled'] = true,
+        ['Url'] = ''
+    }
 }
 getgenv().Key = "MARU-14TU-4DF0Y-9HSY-LJVXD-CHH4"
 getgenv().id = "1093871052112789586"
