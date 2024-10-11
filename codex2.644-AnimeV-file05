@@ -1,4 +1,4 @@
-getgenv().Key = "kc14a91d9f62e775ad3884fa"
+getgenv().Key = "k7bf66dd3f3c61715d09fd73"
 getgenv().Config = {
     ["DeleteMap"] = true,
     ["Failsafe"] = {
